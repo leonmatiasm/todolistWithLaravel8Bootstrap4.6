@@ -11,4 +11,4 @@ Es un ejercicio para aprender lo básico de laravel. Aprendí lo siguiente:
 
 Añadí estilo con Bootstrap 4.6, hice lo mejor que pude con eso. También observé como usar los middleware y las validaciones en las rutas. No lo inclui 😔. Voy aprendiendo 🐢.
 
-:fa-twitter:**[twitter](https://twitter.com/leonmatiasm "twitter")**
+**[twitter](https://twitter.com/leonmatiasm "twitter")**
